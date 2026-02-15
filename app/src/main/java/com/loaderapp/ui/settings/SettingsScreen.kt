@@ -63,7 +63,7 @@ fun SettingsScreen(
                 )
             }
             
-            HorizontalDivider()
+            Divider()
             
             // Звук
             Row(
@@ -90,7 +90,7 @@ fun SettingsScreen(
                 )
             }
             
-            HorizontalDivider()
+            Divider()
             
             // Вибрация
             Row(
@@ -117,7 +117,7 @@ fun SettingsScreen(
                 )
             }
             
-            HorizontalDivider()
+            Divider()
         }
     }
 }

@@ -67,7 +67,7 @@ fun DispatcherScreen(
                     )
                 }
                 
-                HorizontalDivider()
+                Divider()
                 
                 // Пункты меню
                 NavigationDrawerItem(
@@ -114,7 +114,7 @@ fun DispatcherScreen(
                     modifier = Modifier.padding(NavigationDrawerItemDefaults.ItemPadding)
                 )
                 
-                HorizontalDivider(modifier = Modifier.padding(vertical = 8.dp))
+                Divider(modifier = Modifier.padding(vertical = 8.dp))
                 
                 NavigationDrawerItem(
                     icon = { Icon(Icons.Default.ExitToApp, contentDescription = null) },
