@@ -160,7 +160,6 @@ fun DispatcherScreen(
             }
         }
     }
-    }
     
     // Диалог создания заказа
     if (showCreateDialog) {
