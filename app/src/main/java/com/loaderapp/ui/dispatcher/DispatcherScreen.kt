@@ -236,7 +236,6 @@ fun OrdersContent(
                 }
             )
         },
-        },
         floatingActionButton = {
             ExtendedFloatingActionButton(
                 onClick = onCreateOrder,
