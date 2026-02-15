@@ -246,7 +246,6 @@ fun OrdersContent(
                 }
             }
         }
-        }
     ) { padding ->
         Box(
             modifier = Modifier
